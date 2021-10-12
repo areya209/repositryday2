@@ -15,4 +15,4 @@ pull request are welcome for major changes,please open an issue first to discuss
  # licencse
  [mit](http://a.com)
  
- ![imageofcode] (https://github.com/areya209/repositryday2/blob/main/Screenshot%20(107).png)
+ ![imageofcode](https://github.com/areya209/repositryday2/blob/main/Screenshot%20(107).png)
