@@ -1,0 +1,8 @@
+Remove Local and Remote
+
+Local:
+        git branch -D dev
+
+Remote:
+       git push origin dev
+       git branch -d dev
