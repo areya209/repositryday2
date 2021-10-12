@@ -1,0 +1,23 @@
+Commands in day2 are:
+
+git branch aya
+git branch
+ls
+
+git checkout aya
+
+touch newfile
+git add newfile
+git comiit -m "my message"
+
+git checkout main
+ls
+
+git push origin aya
+
+git checkout main
+
+git merge aya
+ls
+
+git push origin main
