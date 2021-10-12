@@ -1,7 +1,7 @@
 # Foobar 
 foobar is a python libary for dealing with word pluralization.
 ## Installation 
-use package manger [pip](http://a.com)  to install foobar.
+use package manger [pip](http://a.com)  to install foobar. \
 `pip install foobar`
 ## Usage
 
