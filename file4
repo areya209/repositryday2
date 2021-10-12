@@ -1,0 +1,8 @@
+Remove Local and Remote:
+
+Local:
+	git branch -D test
+
+Remote:
+	git push origin test
+	git branch -d test
